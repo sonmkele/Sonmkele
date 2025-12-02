@@ -4,7 +4,7 @@ Hi 👋🏽 I'm Sonmkele Owa, an Information & Communication Engineer, Data Anal
 I have experience working across telecom operations, IT support, and data reporting, designing Power BI dashboards, coordinating cross-functional technical tasks, and supporting field and maintenance operations for large-scale infrastructure. I enjoy analyzing operational data 📈, improving workflows, and building tools that keep teams aligned and moving.
 
 📚Projects<br>
-Welcome to my Portfolio
+Welcome to my Portfolio https://github.com/sonmkele/Portfolio
 
 🛠️ Tools & Technologies<br>
 Power BI<br>
