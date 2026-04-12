@@ -1,35 +1,78 @@
-## Introducing Myself
+# 👋 Hi, I'm Sonmkele Owa
 
-Hi 👋🏽 I'm Sonmkele Owa, an Information & Communication Engineer, Data Analyst, and Ops Professional passionate about using data, technology, and automation to make processes smarter and teams more efficient. I love transforming raw data into dashboards, insights, and strategies that help organizations operate better.<br>
-I have experience working across telecom operations, IT support, and data reporting, designing Power BI dashboards, coordinating cross-functional technical tasks, and supporting field and maintenance operations for large-scale infrastructure. I enjoy analyzing operational data 📈, improving workflows, and building tools that keep teams aligned and moving.
+🎯 Aspiring Data Analyst | Future Data Scientist  
+📍 Lagos, Nigeria | Moving to UK (September 2026)
 
-📚Projects<br>
-Welcome to my Portfolio https://github.com/sonmkele/Portfolio
+---
 
-🛠️ Tools & Technologies<br>
-Power BI<br>
-Tableau<br>
-Microsoft Excel (Advanced)<br>
-Data Cleaning & Reporting<br>
-Dashboard Design.
+## 💡 About Me
+I am a data-driven professional with experience in operations, analytics, and dashboard development.  
+I specialise in turning raw data into actionable insights using tools like Power BI, Excel, and SQL.
 
+Currently preparing for my MSc in Applied Artificial Intelligence & Data Analytics.
 
-Awards & Certifications 🎉<br>
-45+ certifications from IBM & Coursera across AI, Cloud, IoT, Cybersecurity, Data Analytics, and Emerging Tech.
+---
 
-Connect with Me
-Linkedin: https://www.linkedin.com/notifications/?filter=all
-<!--
-**sonmkele/Sonmkele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills & Tools
 
-Here are some ideas to get you started:
+**Data Analysis**
+- Excel (Advanced)
+- Power BI (Dashboards, DAX)
+- SQL (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming**
+- Python (Beginner – Pandas, NumPy)
+
+**Other Tools**
+- Tableau (Basic)
+- Git & GitHub
+
+---
+
+## 📊 Projects
+
+### 📌 Power BI Sales Dashboard
+- **Tools:** Power BI, Excel  
+- **Description:** Built an interactive dashboard to track sales performance and KPIs  
+- **Key Insights:**
+  - Identified top-performing regions
+  - Improved reporting efficiency  
+- 🔗 [View Project](#)
+
+---
+
+### 📌 Data Cleaning Project (Excel)
+- **Tools:** Excel  
+- **Description:** Cleaned and transformed raw datasets for analysis  
+- **Key Tasks:**
+  - Removed duplicates
+  - Standardised formats
+  - Created structured tables  
+
+---
+
+### 📌 SQL Practice Projects
+- **Tools:** SQL  
+- **Description:** Practicing real-world queries including joins, aggregations, and filtering  
+
+---
+
+## 📈 What I'm Currently Working On
+- Building end-to-end data projects
+- Learning Python for data analysis
+- Preparing for UK data analyst roles
+
+---
+
+## 🎯 Career Goal
+Data Analyst → Data Scientist → Machine Learning Engineer
+
+---
+
+## 📫 Contact Me
+- LinkedIn: [https://www.linkedin.com/in/sonmkelechukwu-owa-8954691b0/]
+- Email: [amyowa13@gmail.com]
+
+---
+
+⭐ *More projects coming soon...*
