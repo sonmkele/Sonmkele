@@ -55,6 +55,29 @@ Currently preparing for my MSc in Applied Artificial Intelligence & Data Analyti
 - **Tools:** SQL  
 - **Description:** Practicing real-world queries including joins, aggregations, and filtering  
 
+
+---
+### 🛒 Supermarket Grocery Sales Dashboard (Tableau)
+
+- **Tools:** Tableau  
+- **Project Type:** Retail Sales Analytics Dashboard  
+
+- **Description:**  
+Developed an interactive Tableau dashboard to analyse supermarket sales performance across different categories, regions, and time periods. The dashboard provides a clear overview of key business metrics to support data-driven decision-making.
+
+- **Key Features:**
+  - Sales trends over time
+  - Product category performance analysis
+  - Regional sales comparison
+  - Interactive filters for deeper insights
+
+- **Key Insights:**
+  - Identified top-performing product categories
+  - Highlighted sales patterns and trends
+  - Enabled quick comparison across regions
+
+- 🔗 **Live Dashboard:**  
+  https://public.tableau.com/views/SupermarketGrocerySalesDashboard_17760084040320/SupermarketDashboard
 ---
 
 ## 📈 What I'm Currently Working On
