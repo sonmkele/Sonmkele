@@ -31,13 +31,22 @@ Currently preparing for my MSc in Applied Artificial Intelligence & Data Analyti
 
 ## 📊 Projects
 
-### 📌 Power BI Sales Dashboard
+###  Credit Card Fraud Detection Dashboard (Power BI)
+
 - **Tools:** Power BI, Excel  
-- **Description:** Built an interactive dashboard to track sales performance and KPIs  
+- **Description:** Built an interactive dashboard to analyse credit card transactions and detect fraud patterns.
+
+- **Key Features:**
+  - Fraud vs non-fraud transaction analysis
+  - Transaction trends over time
+  - Customer behaviour insights
+
 - **Key Insights:**
-  - Identified top-performing regions
-  - Improved reporting efficiency  
-- 🔗 [View Project](#)
+  - Identified unusual transaction spikes
+  - Highlighted high-risk patterns
+
+- 📁 **Download Dashboard (.pbix):**  
+  [Click here to view](link-to-your-pbix-file)
 
 ---
 
